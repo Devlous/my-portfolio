@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen bg-gray-100 text-gray-900">
       <Navbar />
       <section className="flex flex-col items-center justify-center h-[80vh] text-center">
-        <h1 className="text-5xl font-bold mb-4">Hi, I'm Onyeke Lotanna Louis</h1>
+        <h1 className="text-5xl font-bold mb-4">Hi, I am Onyeke Lotanna Louis</h1>
         <p className="text-lg text-gray-700 mb-8">
           Front-End Developer | React | Next.js 
         </p>
