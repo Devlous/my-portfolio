@@ -5,7 +5,7 @@ export default function Projects() {
   const projects = [
     { title: "Portfolio Website", description: "Built with Next.js & Tailwind CSS", link: "https://my-portfolio-t4mw-ay48r1ed3-watchman1.vercel.app/projects#" },
     { title: "E-commerce front-end design", description: "React + GraphQL data visualizations", link: "https://github.com/Devlous/Akira-site" },
-    { title: "Weather App", description: "Next.js + OpenWeather API integration", link: "#" },
+    // { title: "Weather App", description: "Next.js + OpenWeather API integration", link: "#" },
   ];
 
   return (
